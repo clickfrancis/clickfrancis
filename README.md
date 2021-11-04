@@ -1,7 +1,7 @@
 Olá 👋 eu sou Francis Santos, seja muito bem-vindo!
 
 <br>
-<div align="center">
+<div align="left">
 <a href="https://github.com/clickfrancis">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clickfrancis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clickfrancis&layout=compact&langs_count=7&theme=dracula"/>
