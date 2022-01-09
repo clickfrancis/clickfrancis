@@ -1,7 +1,5 @@
 ## Olá 👋 eu sou Francis Santos, seja muito bem-vindo!
 
-
-<br>
 <br>
 
 🌱 Estou aprendendo: Flutter | Dart | Kotlin.
