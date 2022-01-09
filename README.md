@@ -1,6 +1,11 @@
 ## Olá 👋 eu sou Francis Santos, seja muito bem-vindo!
 
-🌱 Estou aprendendo: Flutter & Dart & Kotlin.
+
+🌱 Estou aprendendo: Flutter | Dart | Kotlin.
+
+💻 Ferramentas: Git | GitHub | VS Code.
+
+<br>
 <br>
 <div align="center">
 <a href="https://github.com/clickfrancis">
