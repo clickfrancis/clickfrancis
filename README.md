@@ -8,6 +8,8 @@
 🥷 Estudando Flutter na Cubos Academy em parceria com a Nubank
 👨‍🎓 Graduando Banco de dados na Estácio-Ba
 ⚡ Amo viajar e andar de bicicleta
+
+<br>
 <div> 
   <a href="https://www.youtube.com/channel/UCfjfG2LA17UAtSxdn0WLpGQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/clickfrancis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
