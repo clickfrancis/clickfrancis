@@ -2,11 +2,9 @@
 
 <br>
 
-🌱 Estou aprendendo: Flutter | Dart | Kotlin.
+🌱 Estou aprendendo: Flutter
 
-💻 Ferramentas: Git | GitHub | VS Code.
-
-<br>
+💻 Ferramentas: Git | GitHub | VS Code
 <br>
 <div align="center">
 <a href="https://github.com/clickfrancis">
