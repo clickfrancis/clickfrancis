@@ -3,11 +3,22 @@
 <br>
 
 🌱 Estou aprendendo: Flutter
-
 💻 Ferramentas: Git | GitHub | VS Code
+🏠 Salvador-BA
+🥷 Estudando Flutter na Cubos Academy em parceria com a Nubank
+👨‍🎓 Graduando Banco de dados na Estácio-Ba
+⚡ Amo viajar e andar de bicicleta
+<div> 
+  <a href="https://www.youtube.com/channel/UCfjfG2LA17UAtSxdn0WLpGQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/clickfrancis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:francis.source@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/franciscruzs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
 <div align="center">
 <a href="https://github.com/clickfrancis">
+  
+##
+  
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clickfrancis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clickfrancis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -21,11 +32,7 @@
   
   ##
   
-<div> 
-  <a href="https://www.youtube.com/channel/UCfjfG2LA17UAtSxdn0WLpGQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/clickfrancis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:francis.source@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/franciscruzs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   
 
 <!--
