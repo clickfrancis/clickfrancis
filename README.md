@@ -8,7 +8,7 @@
 
 🥷 Estudando Flutter na Cubos Academy em parceria com a Nubank
 
-👨‍🎓 Graduando Banco de dados na Estácio-Ba
+👨‍🎓 Graduando Banco de Dados na Estácio-Ba
 
 ⚡ Amo viajar e andar de bicicleta
 <div> 
@@ -24,17 +24,20 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clickfrancis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clickfrancis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- <br>
+  
+##  🥷 Tools &  Skills
   <div style="display: inline_block">
-  <img align="center" alt="fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="fran-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="fran-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="fran-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="fran-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="fran-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img align="center" alt="fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="fran-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="fran-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="fran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="fran-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   </div>
   
-   
-
 <!--
   <img align="right" alt="fran-pic" height="150" style="border-radius:50px;" src="?width=676&height=676">
  	<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
