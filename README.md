@@ -1,10 +1,10 @@
 ## Olá 👋 eu sou Francis Santos, seja muito bem-vindo!
 
-🌱 Estou aprendendo: Flutter & SQL
+🌱 Estou aprendendo: NodeJS & SQL
 
 🏠 Salvador-BA
 
-🥷 Estudando Flutter na Cubos Academy em parceria com a Nubank
+🥷 Finalizando curso de Flutter na Cubos Academy em parceria com a Nubank
 
 👨‍🎓 Graduando Banco de Dados na Estácio-Ba
 
