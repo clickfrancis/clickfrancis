@@ -1,6 +1,6 @@
 ## Olá 👋 eu sou Francis Santos, seja muito bem-vindo!
 
-🌱 Estou aprendendo: NodeJS & SQL
+🌱 Estou aprendendo: Kotlin backend
 
 🏠 Salvador-BA
 
