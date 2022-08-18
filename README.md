@@ -4,8 +4,6 @@
 
 🏠 Salvador-BA
 
-🥷 Finalizando curso de Flutter na Cubos Academy em parceria com a Nubank
-
 👨‍🎓 Graduando Banco de Dados na Estácio-Ba
 
 ⚡ Amo viajar e andar de bicicleta
