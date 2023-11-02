@@ -4,7 +4,7 @@
 
 🏠 Salvador-BA
 
-👨‍🎓 Graduando Banco de Dados na Estácio-Ba
+👨‍🎓 Graduado em Banco de Dados na Estácio-Ba
 
 ⚡ Amo viajar e andar de bicicleta
 <div> 
