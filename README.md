@@ -4,7 +4,6 @@
 
 👨‍🎓 Graduado em Banco de Dados na Estácio-Ba
 
-⚡ Amo viajar e andar de bicicleta
 <div> 
   <a href = "mailto:francis.source@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/franciscruzs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
